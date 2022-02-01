@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-3.0
 
-import "Donator.sol";
+import "./donator.sol";
 pragma solidity ^0.8.7;
 
 contract NGO{
